@@ -28,3 +28,10 @@ Este proyecto es una página web simple para presentar servicios web profesional
 ├── styles.css
 ├── script.js
 └── README.md
+## Próximas mejoras
+
+- Agregar botón real de WhatsApp
+- Agregar sección de precios
+- Agregar preguntas frecuentes
+- Mejorar formulario de contacto
+- Optimizar SEO básico
