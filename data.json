@@ -1,20 +1,8 @@
 {
   "planes": [
-    {
-      "nombre": "Landing Básica",
-      "descripcion": "Ideal para negocios que necesitan presencia rápida en internet.",
-      "precio": "S/ 300"
-    },
-    {
-      "nombre": "Landing Comercial",
-      "descripcion": "Incluye secciones estratégicas, WhatsApp, formulario y diseño responsive.",
-      "precio": "S/ 600"
-    },
-    {
-      "nombre": "Catálogo Web",
-      "descripcion": "Para mostrar productos o servicios de forma ordenada.",
-      "precio": "S/ 900"
-    }
+    {"nombre": "Landing Básica", "descripcion": "Ideal para negocios que necesitan presencia rápida en internet.", "precio": "S/ 300"},
+    {"nombre": "Landing Comercial", "descripcion": "Incluye secciones estratégicas, WhatsApp, formulario y diseño responsive.", "precio": "S/ 600"},
+    {"nombre": "Catálogo Web", "descripcion": "Para mostrar productos o servicios de forma ordenada.", "precio": "S/ 900"}
   ],
   "beneficios": [
     "Diseño adaptable a celular",
@@ -23,17 +11,8 @@
     "Presencia profesional en internet"
   ],
   "faq": [
-    {
-      "pregunta": "¿La página funciona en celular?",
-      "respuesta": "Sí, el diseño se adapta a celulares, tablets y computadoras."
-    },
-    {
-      "pregunta": "¿Puedo recibir mensajes por WhatsApp?",
-      "respuesta": "Sí, se puede colocar un botón directo para que tus clientes te escriban."
-    },
-    {
-      "pregunta": "¿Cuánto demora?",
-      "respuesta": "Una landing básica puede estar lista en pocos días, dependiendo del contenido."
-    }
+    {"pregunta": "¿La página funciona en celular?", "respuesta": "Sí, el diseño se adapta a celulares, tablets y computadoras."},
+    {"pregunta": "¿Puedo recibir mensajes por WhatsApp?", "respuesta": "Sí, se puede colocar un botón directo para que tus clientes te escriban."},
+    {"pregunta": "¿Cuánto demora?", "respuesta": "Una landing básica puede estar lista en pocos días, dependiendo del contenido."}
   ]
 }
