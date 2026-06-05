@@ -1,6 +1,6 @@
 {
   "planes": [
-    {"nombre": "Landing Básica", "descripcion": "Ideal para negocios que necesitan presencia rápida en internet.", "precio": "S/ 300"},
+    {"nombre": "Landing Básica", "descripcion": "PRUEBAIdeal para negocios que necesitan presencia rápida en internet.", "precio": "S/ 300"},
     {"nombre": "Landing Comercial", "descripcion": "Incluye secciones estratégicas, WhatsApp, formulario y diseño responsive.", "precio": "S/ 600"},
     {"nombre": "Catálogo Web", "descripcion": "Para mostrar productos o servicios de forma ordenada.", "precio": "S/ 900"}
   ],
